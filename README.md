@@ -1,6 +1,6 @@
 # Hi, I'm Priti Kandalkar 👋
 
-### 💻 Frontend Developer (JavaScript focused)
+### 💻 Frontend Developer
 
 - 🚀 I’m currently learning and building UI projects using **React**, **JavaScript**, and **Tailwind CSS**
 - 🌱 Learning: **React**, **APIs**
